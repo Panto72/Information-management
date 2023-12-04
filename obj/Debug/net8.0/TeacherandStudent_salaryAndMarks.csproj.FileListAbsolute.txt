@@ -1,0 +1,14 @@
+D:\C#\TeacherandStudent_salaryAndMarks\TeacherandStudent_salaryAndMarks\bin\Debug\net8.0\TeacherandStudent_salaryAndMarks.exe
+D:\C#\TeacherandStudent_salaryAndMarks\TeacherandStudent_salaryAndMarks\bin\Debug\net8.0\TeacherandStudent_salaryAndMarks.deps.json
+D:\C#\TeacherandStudent_salaryAndMarks\TeacherandStudent_salaryAndMarks\bin\Debug\net8.0\TeacherandStudent_salaryAndMarks.runtimeconfig.json
+D:\C#\TeacherandStudent_salaryAndMarks\TeacherandStudent_salaryAndMarks\bin\Debug\net8.0\TeacherandStudent_salaryAndMarks.dll
+D:\C#\TeacherandStudent_salaryAndMarks\TeacherandStudent_salaryAndMarks\bin\Debug\net8.0\TeacherandStudent_salaryAndMarks.pdb
+D:\C#\TeacherandStudent_salaryAndMarks\TeacherandStudent_salaryAndMarks\obj\Debug\net8.0\TeacherandStudent_salaryAndMarks.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TeacherandStudent_salaryAndMarks\TeacherandStudent_salaryAndMarks\obj\Debug\net8.0\TeacherandStudent_salaryAndMarks.AssemblyInfoInputs.cache
+D:\C#\TeacherandStudent_salaryAndMarks\TeacherandStudent_salaryAndMarks\obj\Debug\net8.0\TeacherandStudent_salaryAndMarks.AssemblyInfo.cs
+D:\C#\TeacherandStudent_salaryAndMarks\TeacherandStudent_salaryAndMarks\obj\Debug\net8.0\TeacherandStudent_salaryAndMarks.csproj.CoreCompileInputs.cache
+D:\C#\TeacherandStudent_salaryAndMarks\TeacherandStudent_salaryAndMarks\obj\Debug\net8.0\TeacherandStudent_salaryAndMarks.dll
+D:\C#\TeacherandStudent_salaryAndMarks\TeacherandStudent_salaryAndMarks\obj\Debug\net8.0\refint\TeacherandStudent_salaryAndMarks.dll
+D:\C#\TeacherandStudent_salaryAndMarks\TeacherandStudent_salaryAndMarks\obj\Debug\net8.0\TeacherandStudent_salaryAndMarks.pdb
+D:\C#\TeacherandStudent_salaryAndMarks\TeacherandStudent_salaryAndMarks\obj\Debug\net8.0\TeacherandStudent_salaryAndMarks.genruntimeconfig.cache
+D:\C#\TeacherandStudent_salaryAndMarks\TeacherandStudent_salaryAndMarks\obj\Debug\net8.0\ref\TeacherandStudent_salaryAndMarks.dll
